@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import Alamofire
 
 struct City {
     let city_name: String
